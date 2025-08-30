@@ -17,8 +17,6 @@
 #### Create an images folder
     Copy the images folder from this repository or create a new set using the .make_icons.sh script
 
-#### Add the following files to the images folder:
-
 #### Load the extension into Chrome
     Click on Chrome Hamburger Menu(on upper right corner) > Extensions > Manage Extensions 
 
